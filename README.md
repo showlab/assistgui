@@ -1,7 +1,7 @@
 # AssistGUI: Task-Oriented Desktop Graphical User Interface Automation
 Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou
 
-[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://assistgpt-project.github.io/)
+[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://showlab.github.io/assistgui/)
 
 ## :rocket: Introduction
 
